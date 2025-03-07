@@ -47,7 +47,7 @@ Personal Finance Tracker is a web application designed to help users manage thei
 ![Set Budget](images/set_budget.png)
 
 ## Technologies Used 🛠️
-- ![PHP](https://www.php.net/images/logos/php-logo.svg) **PHP**
+- <img src="https://www.php.net/images/logos/php-logo.svg" alt="PHP" width="50"/>  **PHP**
 - ![MySQL](https://www.mysql.com/common/logos/logo-mysql-170x115.png) **MySQL**
 - ![HTML5](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg) **HTML5**
 - ![CSS3](https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg) **CSS3**
